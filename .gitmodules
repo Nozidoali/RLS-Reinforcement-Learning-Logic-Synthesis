@@ -1,0 +1,9 @@
+[submodule "pybind11"]
+	path = pybind11
+	url = https://github.com/pybind/pybind11.git
+[submodule "pyabc"]
+	path = pyabc
+	url = https://github.com/krzhu/abc_py.git
+[submodule "abc"]
+	path = abc
+	url = https://github.com/berkeley-abc/abc.git
